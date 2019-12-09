@@ -1,4 +1,3 @@
 # Tower-Defense-Game
-This game is under developmen,will come up with more exciting features <3 
-This is essentially a tower defense game, you can read further details here - https://py.mit.edu/fall19/labs/lab9 
-Have fun exploring the features!
+Basically this is a tower defense game with numerous features. The timestep function moves the game one step ahead and UI 
+interprets the render method and visualize that as a game. This game has lots of features :)
